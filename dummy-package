@@ -1,0 +1,7 @@
+{
+    "name": "dreadyhead/dummy-package",
+    "description": "dreadyhead - Dummy package",
+    "require": {
+        "php": ">=7.4"
+    }
+}
